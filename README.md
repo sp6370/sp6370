@@ -9,7 +9,7 @@ Key skills:
 - Python, Django, Flask, React.js, Node.js, Express  
 - Databases: PostgreSQL, MySQL, Firebase
 - AWS: Lambda, EC2, DynamoDB, S3
-- Docker, Git, CI/CD, Monitoring
+- Docker, Git, CI/CD, Monitoring (Sentry & Datadog)
 
 ## Education
 
