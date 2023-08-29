@@ -19,6 +19,6 @@ Key skills:
 
 ## Let's Connect!
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/sp6370/
 
 I'm eager to apply my skills and experience to impactful new projects and products. Please check out my pinned repositories below for code samples and feel free to connect!
