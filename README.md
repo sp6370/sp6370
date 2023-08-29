@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋 I'm Sudhanshu Pandey
 
-<!--
-**sp6370/sp6370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
 
-Here are some ideas to get you started:
+I'm a software engineer actively looking for my next role. I have experience building robust backend systems, APIs, and complex cloud-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Key skills:
+
+- Python, Django, Flask, React.js, Node.js, Express  
+- Databases: PostgreSQL, MySQL, Firebase
+- AWS: Lambda, EC2, DynamoDB, S3
+- Docker, Git, CI/CD, Monitoring
+
+## Education
+
+**New York University** - MS in Computer Science  
+
+**Vellore Institute of Technology** - MTech & BTech in Software Engineering
+
+## Let's Connect!
+
+- LinkedIn: [Your LinkedIn URL]
+
+I'm eager to apply my skills and experience to impactful new projects and products. Please check out my pinned repositories below for code samples and feel free to connect!
