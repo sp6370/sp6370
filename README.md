@@ -17,3 +17,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sp6370&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sp6370&&style=flat-square" align="center" />
+</div>  
