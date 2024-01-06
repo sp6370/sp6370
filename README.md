@@ -19,7 +19,7 @@ I'm Sudhanshu Pandey, a software engineer with passion for all things tech. I'm 
 	- [#27236](https://github.com/matplotlib/matplotlib/pull/27236) [Doc]: PyData NYC Tagging Sprint - Added the tags for the managing multiple figures demo.
 
 ## 🎁 Side Projects
-* Simplified CLI based job application tracker using Notion API powered by TypeScript and Selenium: https://github.com/sp6370/Job-Application-Tracker
+* Job application tracker with a simplified CLI interface: https://github.com/sp6370/Job-Application-Tracker
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sp6370&show_icons=true&count_private=true&hide_border=false&hide_rank=false&rank_icon=github" align="center" /></div>
