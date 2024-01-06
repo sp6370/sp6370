@@ -1,6 +1,6 @@
 # Hello there! 👋 
 
-I'm Sudhanshu Pandey, a software engineer with deep passion for all things tech. Armed with a Master's in Computer Science from NYU (Go Violets!). I'm currently seeking my next adventure. Let's connect and explore the possibilities!"
+I'm Sudhanshu Pandey, a software engineer with passion for all things tech. I'm currently seeking my next adventure. Let's connect and explore the possibilities!"
 
 ## Previously:
 -   **[Nodal Health](https://www.nodal.com/) (Software Engineer & **Software Engineer Intern**):** Significantly contributed to the development of an online platform facilitating connections between vetted surrogates and prospective parents. My contributions included crafting key features like automated background checks, seamless CRM integration, and convenient one-click health data export—all powered by Python and Django Rest.
