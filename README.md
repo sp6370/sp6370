@@ -1,15 +1,7 @@
 # Hi there 👋 I'm Sudhanshu Pandey
 
-## About Me 
-
-I'm a software engineer actively looking for my next role. I have experience building robust backend systems, APIs, and complex cloud-based applications.
-
-Key skills:
-
-- Python, Django, Flask, React.js, Node.js, Express  
-- Databases: PostgreSQL, MySQL, Firebase
-- AWS: Lambda, EC2, DynamoDB, S3
-- Docker, Git, CI/CD, Monitoring (Sentry & Datadog)
+**Previously:**
+-   **[MyCarmunity](https://mycarmunity.com/) (Software Engineer Intern):** Helped Europe's premier hybrid auction house for car collectors hum smoothly by crafting robust microservices for auction payments and personalized emails - all powered by TypeScript, Node.js, and Firebase Serverless magic.
 
 **OSS Contributions:**
 -   [AiConfig](https://aiconfig.lastmileai.dev/) (Python):
