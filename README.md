@@ -13,7 +13,7 @@ Key skills:
 
 **OSS Contributions:**
 -   [AiConfig](https://aiconfig.lastmileai.dev/) (Python):
-		- [#689](https://github.com/lastmile-ai/aiconfig/pull/689) Feat: Add method to add multiple outputs to a prompt in AIConfig
+	- [#689](https://github.com/lastmile-ai/aiconfig/pull/689) Feat: Add method to add multiple outputs to a prompt in AIConfig
 		- [#687](https://github.com/lastmile-ai/aiconfig/pull/687) Enhance Python SDK: Implement robust error handling for add_output function
 - [Trigger.dev](https://trigger.dev/) (TypeScript and AWS):
 		- [#82](https://github.com/triggerdotdev/api-reference/pull/82) Implement AWS SDK Job Example for Trigger.dev Integration
