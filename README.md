@@ -16,13 +16,12 @@
 -  [Matplotlib](https://matplotlib.org/):
 	- [#27236](https://github.com/matplotlib/matplotlib/pull/27236) [Doc]: PyData NYC Tagging Sprint - Added the tags for the managing multiple figures demo.
 
-<br/>  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sp6370" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/s_pandey101" target="_blank">
+<a href="https://twitter.com/s_pandey101" target="blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/sp6370" target="_blank">
