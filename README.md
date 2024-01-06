@@ -16,6 +16,7 @@
 -  [Matplotlib](https://matplotlib.org/):
 	- [#27236](https://github.com/matplotlib/matplotlib/pull/27236) [Doc]: PyData NYC Tagging Sprint - Added the tags for the managing multiple figures demo.
 
+<br/>  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sp6370" target="_blank">
@@ -31,6 +32,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
+<br/>  
  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sp6370&show_icons=true&count_private=true&hide_border=false&hide_rank=false&rank_icon=github" align="center" /></div>
