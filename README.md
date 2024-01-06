@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Sudhanshu Pandey
 
-**Previously:**
+## Previously:
 -   **[MyCarmunity](https://mycarmunity.com/) (Software Engineer Intern):** Helped Europe's premier hybrid auction house for car collectors hum smoothly by crafting robust microservices for auction payments and personalized emails - all powered by TypeScript, Node.js, and Firebase Serverless magic.
 
-## **OSS Contributions:**
+## OSS Contributions:
 -   [AiConfig](https://aiconfig.lastmileai.dev/) (Python):
 	- [#689](https://github.com/lastmile-ai/aiconfig/pull/689) Feat: Add method to add multiple outputs to a prompt in AIConfig
 	- [#687](https://github.com/lastmile-ai/aiconfig/pull/687) Enhance Python SDK: Implement robust error handling for add_output function
