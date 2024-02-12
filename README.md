@@ -17,7 +17,6 @@ I'm Sudhanshu Pandey, a software engineer with passion for all things tech. I'm 
 	- [#24974](https://github.com/mattermost/mattermost/pull/24974) Convert unmute_channel_button.tsx from Class Component to Function Component
 -  [Matplotlib](https://matplotlib.org/):
 	- [#27236](https://github.com/matplotlib/matplotlib/pull/27236) [Doc]: PyData NYC Tagging Sprint - Added the tags for managing multiple figures demo
-	
 
 ## 🎁 Side Projects
 * Job application tracker with a simplified CLI interface: https://github.com/sp6370/Job-Application-Tracker
