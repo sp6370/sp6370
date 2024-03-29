@@ -12,7 +12,6 @@ I'm Sudhanshu Pandey, a software engineer with passion for all things tech. I'm 
 	- [#923](https://github.com/lastmile-ai/aiconfig/pull/923) Feat: Updated ParameterizedModelParser and ModelParser run methods to support explicit run_with_dependencies parameter
 	- [#689](https://github.com/lastmile-ai/aiconfig/pull/689) Feat: Add method to add multiple outputs to a prompt in AIConfig
 	- [#687](https://github.com/lastmile-ai/aiconfig/pull/687) Enhance Python SDK: Implement robust error handling for add_output function
-
 - [Trigger.dev](https://trigger.dev/) (TypeScript and AWS):
 	- [#82](https://github.com/triggerdotdev/api-reference/pull/82) Implement AWS SDK Job Example for Trigger.dev Integration
 -   [Mattermost](https://mattermost.com/) (React and TypeScript):
