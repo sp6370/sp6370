@@ -1,6 +1,9 @@
 # Hello there! 👋 
 
-I'm Sudhanshu Pandey, a software engineer with passion for all things tech. I'm currently seeking my next adventure. Let's connect and explore the possibilities!
+I'm Sudhanshu Pandey, a software engineer with passion for all things tech.
+
+## Currently:
+-   **[Kimset](https://hastobekismet.com/) (**Software Engineer**):** Pioneering AI-driven sales tools for hotels as the first engineering hire. Architected and maintaining full cloud infrastructure on GCP while spearheading full-stack development using Nest.js, Next.js and TypeScript.
 
 ## Previously:
 -   **[Formbricks](https://formbricks.com/) (**DevOps Engineer Intern**):** Pioneered a proof-of-concept (POC) for migrating a Next.js web application from Vercel to AWS Elastic Container Service (ECS), leveraging [Terraform](https://github.com/formbricks/AWS-ECS-Deployment) to automate resource provisioning and [GitHub Actions for deployment](https://github.com/formbricks/formbricks/blob/main/.github/workflows/ecs-deployment.yml). Scaled to 1M+ daily requests with <1% timeouts using cost-effective, highly scalable Fargate solution on ECS, enhancing performance and slashing costs.
