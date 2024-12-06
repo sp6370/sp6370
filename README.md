@@ -11,6 +11,10 @@ I'm Sudhanshu, a software engineer with passion for all things tech.
 -   **[MyCarmunity](https://mycarmunity.com/) (Software Engineer Intern):** Helped Europe's premier hybrid auction house for car collectors hum smoothly by crafting robust microservices for auction payments and personalized emails - all powered by TypeScript, Node.js, and Firebase Serverless magic.
 
 ## OSS Contributions:
+-   [Wadm](https://github.com/wasmCloud/wadm):
+	- [#493](https://github.com/wasmCloud/wadm/pull/493) Chore: Update the GitHub Action to set correct tag for the Docker Image
+-   [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js-contrib) (TypeScript):
+	- [#2532](https://github.com/open-telemetry/opentelemetry-js-contrib/pull/2532) Chore: Updated the OTel Express integration example
 -   [AiConfig](https://aiconfig.lastmileai.dev/) (Python):
 	- [#923](https://github.com/lastmile-ai/aiconfig/pull/923) Feat: Updated ParameterizedModelParser and ModelParser run methods to support explicit run_with_dependencies parameter
 	- [#689](https://github.com/lastmile-ai/aiconfig/pull/689) Feat: Add method to add multiple outputs to a prompt in AIConfig
